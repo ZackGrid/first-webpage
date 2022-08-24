@@ -71,7 +71,7 @@ a {
 }
 
 .hero-image {
-   width: 250px;
+   width: 200px;
 }
 
 .hero {
@@ -162,7 +162,7 @@ a {
 .bottom-container {
     background-color: #3882f6;
     width: 800px;
-    height: 50px;
+    min-height: 50px;
     border-radius: 10px;
     display: flex;
     justify-content: space-around;
